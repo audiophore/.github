@@ -1,4 +1,6 @@
-# Audiophore
+<p align="center">
+  <img src="https://raw.githubusercontent.com/audiophore/.github/main/profile/audiophore-lockup-dark-bg.svg" alt="Audiophore" width="600">
+</p>
 
 > A high-performance bridge between [Synesthesia](https://getsynesthesia.com/)
 > and the wider lighting ecosystem — Hue, WLED, Nanoleaf, DMX, lasers, and beyond.
