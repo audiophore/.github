@@ -73,3 +73,6 @@ appears or follow along.
 ### License
 
 MIT OR Apache-2.0 (planned, dual-licensed in the Rust ecosystem standard).
+
+*Made in Sacramento by [@iammrcupp](https://github.com/iammrcupp) — 
+between sets, between bugs, between cups of coffee.*
